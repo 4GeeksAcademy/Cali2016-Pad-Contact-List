@@ -1,0 +1,14 @@
+.contact-card {
+    width: 100%;
+    max-width: 950px;
+}
+
+.contact-avatar {
+    width: 90px;
+    height: 90px;
+    object-fit: cover;
+}
+
+.contact-card .row {
+    border: 1px solid #e6e6e6;
+}
